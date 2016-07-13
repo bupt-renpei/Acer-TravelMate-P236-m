@@ -260,9 +260,9 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>C1MRDCLZG941MA6RH</string>
+		<string>你的MLB</string>
 		<key>ROM</key>
-		<string>159ae41eb950</string>
+		<string>你的ROM</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
