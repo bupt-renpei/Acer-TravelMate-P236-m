@@ -277,7 +277,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C1MRDCLZG941MA6RH</string>
+		<string>你的主板序列号</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>ChassisAssetTag</key>
@@ -295,9 +295,9 @@
 		<key>ProductName</key>
 		<string>MacBookAir7,2</string>
 		<key>SerialNumber</key>
-		<string>C1MRDCLZG941</string>
+		<string>你的序列号</string>
 		<key>SmUUID</key>
-		<string>15F6A679-CFB9-4DA4-89FA-159AE41EB950</string>
+		<string>你的UUID</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
